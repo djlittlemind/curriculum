@@ -241,6 +241,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Tom Westerhout's Solution](https://github.com/Westw00d/Project-Euler) | [View in browser](http://htmlpreview.github.io/?https://github.com/Westw00d/Project-Euler/blob/master/Euler.html)
 * [Tahmid's solution](https://github.com/tahmid101/javascript101) | [View in browser](https://htmlpreview.github.io/?https://github.com/Tahmid101/javascript101/blob/master/eular_project.html)
 * [Swordscoper's solution](https://github.com/Swordscoper/Euler) | [View in browser](http://rawgit.com/Swordscoper/Euler/master/index.html)
+* [Hans von Rautenfeld's Solution](https://github.com/djlittlemind/euler_1_2_3.git)
 * Add your solution above this line!
 
 ## Additional Resources
